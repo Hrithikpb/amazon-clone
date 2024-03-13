@@ -1,3 +1,7 @@
+### referrence https://www.youtube.com/watch?v=RDV3Z1KCBvo
+
+#### Side Note: To run this you need to set up firebase and stripe, then need to make changes and replace my private keys with yours. I have removed mine just in case :) but add yours over there and you should be good. (path: src/firebase.js and functions/index.js)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
